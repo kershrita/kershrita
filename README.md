@@ -1,6 +1,6 @@
 ![DataAnalytics](https://user-images.githubusercontent.com/63349054/215828212-79488312-fb48-4966-a90e-4f90597a6311.gif)
 
-[[Resume](/Ashraf's%20Resume.pdf)]
+
 
 <h1 align="center">Hi, I'm Ashraf Abdulkhaliq</h1>
 
@@ -63,7 +63,7 @@
 
 </p>
 
-<h3 align="left">Languges:</h3>
+<h3 align="left">Languages:</h3>
 <p align="left">
 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
@@ -80,3 +80,6 @@
 <p><img align ="left" src="https://github-readme-stats.vercel.app/api?username=kershrita&show_icons=true&locale=en" alt="kershrita" /></p>
 
 <p><img align ="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kershrita&show_icons=true&locale=en&layout=compact" alt="kershrita" /></p>
+
+
+### [[Ashraf's Resume](Ashraf's%20Resume.pdf)]
