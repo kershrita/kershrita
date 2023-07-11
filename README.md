@@ -1,8 +1,10 @@
 ![DataAnalytics](https://user-images.githubusercontent.com/63349054/215828212-79488312-fb48-4966-a90e-4f90597a6311.gif)
 
+[[Resume](/Ashraf's%20Resume.pdf)]
+
 <h1 align="center">Hi, I'm Ashraf Abdulkhaliq</h1>
 
-<h3 align="center">A junior Data Scientist, studying AI technologies and Data Analysis techniques .</h3> [[Resume](/Ashraf's%20Resume.pdf)]
+<h3 align="center">A junior Data Scientist, studying AI technologies and Data Analysis techniques .</h3> 
 
 <img align="right" alt="Coding" width="390" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
 
