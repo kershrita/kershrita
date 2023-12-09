@@ -5,7 +5,7 @@
 I'm **Ashraf Abdulkhaliq**, a passionate Artificial Intelligence from Kafr El Sheikh, Egypt. Welcome to my GitHub profile! 
 
 ## About Me 
-- 💼 Alpha Student Ambassador @ Microsoft.
+- 💼 Beta Student Ambassador @ Microsoft.
 - 💼 Data Science Head @ IEEE KSB.
 - 💼 Data Science Intern @ ShAI.
 - 🎓 Currently studying AI @ Kafrelsheikh University (KSU).
