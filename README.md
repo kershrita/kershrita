@@ -2,14 +2,14 @@
 
 <img align="right" src="https://komarev.com/ghpvc/?username=kershrita" alt="Profile Views" />
 
-I'm **Ashraf Abdulkhaliq**, a passionate Artificial Intelligence from Kafr El Sheikh, Egypt. Welcome to my GitHub profile! 
+I'm **Ashraf Abdulkhaliq**, passionate about Artificial Intelligence, love data, like to watch her breathing!
 
 ## About Me 
-- 💼 Beta Student Ambassador @ Microsoft.
+- 💼 Beta [Student Ambassador](https://mvp.microsoft.com/en-US/studentambassadors/profile/177120cb-090e-4816-9d5f-073e153dc0f6?wt.mc_id=studentamb_299177) @ Microsoft.
 - 💼 Data Science Head @ IEEE KSB.
 - 💼 Data Science Intern @ ShAI.
 - 🎓 Currently studying AI @ Kafrelsheikh University (KSU).
-- 📄 Tack look for my [CV](Ashraf's%20Resume.pdf)
+- 📄 Take a look for my [CV](Ashraf's%20Resume.pdf)
 - 🌐 Check my [portfolio](https://salmon-rock-06b10da10.4.azurestaticapps.net/)
 - 🌱 I love to read more about new technology.
 
