@@ -9,7 +9,7 @@ I'm **Ashraf Abdulkhaliq**, passionate about Artificial Intelligence, love data,
 - 💼 Data Science Head @ IEEE KSB.
 - 💼 Data Science Intern @ ShAI.
 - 🎓 Currently studying AI @ Kafrelsheikh University (KSU).
-- 📄 Take a look for my [CV](Ashraf's%20Resume.pdf)
+- 📄 Take a look for my [CV](Ashraf's%20CV.pdf)
 - 🌐 Check my [portfolio](https://salmon-rock-06b10da10.4.azurestaticapps.net/)
 - 🌱 I love to read more about new technology.
 
