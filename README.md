@@ -6,11 +6,11 @@ I'm **Ashraf Abdulkhaliq**, passionate about Artificial Intelligence, love data,
 
 ## About Me 
 - 💼 Beta [Student Ambassador](https://mvp.microsoft.com/en-US/studentambassadors/profile/177120cb-090e-4816-9d5f-073e153dc0f6?wt.mc_id=studentamb_299177) @ Microsoft.
-- 💼 Data Science Head @ IEEE KSB.
-- 💼 Data Science Intern @ ShAI.
-- 🎓 Currently studying AI @ Kafrelsheikh University (KSU).
+- 💼 Site Coordinator @ Almentor.
+- 🎓 Studying AI @ Kafrelsheikh University (KSU).
+- 🎓 Studying Data Science @ ShAI.
 - 📄 Take a look for my [CV](Ashraf's%20CV.pdf)
-- 🌐 Check my [portfolio](https://salmon-rock-06b10da10.4.azurestaticapps.net/)
+- 🌐 Check my [portfolio](https://salmon-rock-06b10da10.4.azurestaticapps.net/) [Not Working].
 - 🌱 I love to read more about new technology.
 
 ## Connect with Me 
@@ -65,7 +65,7 @@ Here are some technologies I enjoy working with:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </p>
 
-## GitHub Stats 
+## GitHub Status 
 
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kershrita" />
