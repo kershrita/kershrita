@@ -6,7 +6,7 @@ I'm **Ashraf Abdulkhaliq**, passionate about Artificial Intelligence, love data,
 
 ## About Me 
 - 💼 Beta [Student Ambassador](https://mvp.microsoft.com/en-US/studentambassadors/profile/177120cb-090e-4816-9d5f-073e153dc0f6?wt.mc_id=studentamb_299177) @ Microsoft.
-- 💼 Site Coordinator @ Almentor.
+- 💼 Supervisor @ Almentor.
 - 🎓 Studying AI @ Kafrelsheikh University (KSU).
 - 🎓 Studying Data Science @ ShAI.
 - 📄 Take a look for my [CV](Ashraf's%20CV.pdf)
