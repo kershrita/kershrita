@@ -9,7 +9,7 @@ I'm **Ashraf Abdulkhaliq**, passionate about Artificial Intelligence, love data,
 - 💼 Supervisor @ Almentor.
 - 🎓 Studying AI @ Kafrelsheikh University (KSU).
 - 🎓 Studying Data Science @ ShAI.
-- 📄 Take a look for my [CV](Ashraf's%20CV.pdf)
+- 📄 Take a look for my [CV](Ashraf%20Abdulkhaliq%20-%20Data%20Scientist.pdf)
 - 🌐 Check my [portfolio](https://salmon-rock-06b10da10.4.azurestaticapps.net/) [Not Working].
 - 🌱 I love to read more about new technology.
 
