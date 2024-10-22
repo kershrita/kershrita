@@ -5,12 +5,11 @@
 I'm **Ashraf Abdulkhaliq**, passionate about Artificial Intelligence, love data, like to watch her breathing!
 
 ## About Me 
+- 🎓 Studying AI @ Kafrelsheikh University (KSU).
+- 🎓 Certified Microsoft Azure AI, Data
 - 💼 Beta [Student Ambassador](https://mvp.microsoft.com/en-US/studentambassadors/profile/177120cb-090e-4816-9d5f-073e153dc0f6?wt.mc_id=studentamb_299177) @ Microsoft.
 - 💼 Supervisor @ Almentor.
-- 🎓 Studying AI @ Kafrelsheikh University (KSU).
-- 🎓 Studying Data Science @ ShAI.
 - 📄 Take a look for my [CV](Ashraf%20Abdulkhaliq%20-%20Data%20Scientist.pdf)
-- 🌐 Check my [portfolio](https://salmon-rock-06b10da10.4.azurestaticapps.net/) [Not Working].
 - 🌱 I love to read more about new technology.
 
 ## Connect with Me 
