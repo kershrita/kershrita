@@ -2,7 +2,7 @@
 
 <img align="right" src="https://komarev.com/ghpvc/?username=kershrita" alt="Profile Views" />
 
-I'm **Ashraf Abdulkhaliq**, passionate about Artificial Intelligence, love data, like to watch her breathing!
+Machine Learning Engineer and Data Scientist with hands-on experience in cloud computing, data science, and machine learning, certified in Microsoft Azure Fundamentals, Azure AI Fundamentals, and Azure Data Scientist Associate. My journey in AI and data science has involved implementing diverse projects, hosting Azure workshops, and mentoring students on AI and coding concepts.
 
 ## About Me 
 - 🎓 Studying AI @ Kafrelsheikh University (KSU).
